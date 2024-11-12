@@ -14122,6 +14122,11 @@
             "source": "https://sennheiser.com"
         },
         {
+            "title": "Sensor Tower",
+            "hex": "3C3C3C",
+            "source": "https://sensortower.com/press"
+        },
+        {
             "title": "Sensu",
             "hex": "89C967",
             "source": "https://github.com/sensu/web/blob/c823738c11e576d6b2e5d4ca2d216dbd472c0b11/src/assets/logo/graphic/green.svg"
